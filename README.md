@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rémi Trimbour, a MD-PhD program student currently in 3rd year of Medicine (University of Paris) and in M2 of biology (ENS of Paris)
+- 👋 Hi, I’m Rémi Trimbour, a MD-PhD program student currently doing a PhD in Computational biology.
 - 👀 I’m interested in computional biology and especially biological network modeling.
 - 🌱 I’m currently learning logical modeling and analysis of logical models.
 - 💞️ I’m looking to collaborate on ...
