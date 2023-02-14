@@ -2,8 +2,7 @@
 
 I’m especially interested in **biological network modeling** from **single-cell** data, but also general use of machine learning for single-cell omics and clinical data.
 
-💞️ I’m looking to collaborate on any interesting dataset, especially with **clinical applications**.
-<br>📫 How to reach me : remi.trimbour@ens.fr
+💞️ I’m looking to collaborate on any interesting dataset, especially with **clinical applications** : remi.trimbour@ens.fr
 
 <!---
 r-trimbour/r-trimbour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
