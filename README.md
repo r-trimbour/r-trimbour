@@ -1,5 +1,5 @@
 👋 Hi, I’m Rémi Trimbour, a MD-PhD program student currently doing a PhD in Computational biology.
-👀 I’m interested in computional biology and especially biological network modeling from single-cell data.
+<br>👀 I’m interested in computional biology and especially biological network modeling from single-cell data.
 🌱 I’m currently learning logical modeling and analysis of logical models.
 
 💞️ I’m looking to collaborate on any interesting dataset, especially with clinical applications
