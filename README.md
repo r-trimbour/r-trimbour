@@ -1,5 +1,5 @@
 📚 **MD-PhD program student** currently doing a **PhD in Computational biology**.
-<br>I’m especially interested in **biological network modeling** from **single-cell** data, but also general use of machine learning for single-cell omics and clinical data.
+<br>I’m especially interested in **biological network modeling** from **single-cell** data, <br>but also general use of machine learning for single-cell omics and clinical data.
 
 💞️ I’m looking to collaborate on any interesting dataset, especially with **clinical applications** : remi.trimbour@ens.fr
 
